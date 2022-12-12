@@ -76,7 +76,7 @@ body {
 /* ------------------- twist buttons ------------------- */
 .twist {
   position: absolute;
-  top: 50%;
+  top: calc(50% + 20px);
   right: 50px;
   margin-top: -240px;
 	width: 190px;
